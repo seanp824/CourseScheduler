@@ -1,0 +1,36 @@
+{% extends 'base.html' %} {% block content %}
+<div class="container">
+  <h1 class="mt-4">Weekly Calendar</h1>
+  <table class="table table-bordered text-center">
+    <thead>
+      <tr>
+        <th style="width: 10%">Time</th>
+        <th>Monday</th>
+        <th>Tuesday</th>
+        <th>Wednesday</th>
+        <th>Thursday</th>
+        <th>Friday</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for hour in range(8, 18) %}
+      <tr>
+        <td class="align-middle">{{ hour }}:00 - {{ hour + 1 }}:00</td>
+        {% for day in ['M', 'T', 'W', 'Th', 'F'] %}
+        <td class="calendar-cell">
+          {% for event in events %} {% if day in event.days and hour ==
+          event.start_hour %}
+          <div class="calendar-event">
+            <strong>{{ event.courseCode }}</strong><br />
+            {{ event.courseName }}<br />
+            {{ event.time }}
+          </div>
+          {% endif %} {% endfor %}
+        </td>
+        {% endfor %}
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+</div>
+{% endblock %}

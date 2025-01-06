@@ -1,0 +1,165 @@
+10001R,CSCI-104,Data Structures and Object Oriented Design,John Smith,11:00-12:20,TTh,Lecture,0
+10002R,CSCI-104,Data Structures and Object Oriented Design,John Smith,08:00-09:20,TTh,Lecture,0
+10003R,CSCI-104,Data Structures and Object Oriented Design Lab,TBA,17:00-18:50,W,Lab,10001R/10002R
+10004R,CSCI-104,Data Structures and Object Oriented Design Lab,TBA,15:00-16:50,W,Lab,10001R/10002R
+10005R,CSCI-104,Data Structures and Object Oriented Design Lab,TBA,17:30-18:20,T,Lab,10001R/10002R
+10006R,CSCI-104,Data Structures and Object Oriented Design Quiz,N/A,19:00-20:50,Th,Quiz,10001R/10002R
+20001R,CSCI-201,Principles of Software Development,Jane Doe,11:00-12:20,TTh,Lecture,0
+20002R,CSCI-201,Principles of Software Development Lab,TBA,15:30-17:20,T,Lab,20001R
+20003R,CSCI-201,Principles of Software Development Lab,TBA,17:30-19:20,T,Lab,20001R
+20004R,CSCI-201,Principles of Software Development Lab,TBA,08:00-09:50,T,Lab,20001R
+20005R,CSCI-201,Principles of Software Development Lab,TBA,17:00-18:50,Th,Lab,20001R
+20006R,CSCI-201,Principles of Software Development Lab,TBA,10:00-11:50,M,Lab,20001R
+20007R,CSCI-201,Principles of Software Development Lab,TBA,10:00-11:50,W,Lab,20001R
+20008R,CSCI-201,Principles of Software Development Quiz,N/A,TBA,TBA,Quiz,20001R
+30001R,CSCI-270,Introduction to Algorithms and Theory of Computing,John Smith,09:30-10:50,TTh,Lecture,0
+30002R,CSCI-270,Introduction to Algorithms and Theory of Computing Discussion,TBA,TBA,F,Discussion,30001R
+30003R,CSCI-270,Introduction to Algorithms and Theory of Computing Discussion,TBA,14:00-15:50,F,Discussion,30001R
+30004R,CSCI-270,Introduction to Algorithms and Theory of Computing Quiz,TBA,18:00-19:50,F,Quiz,30001R
+30005R,CSCI-270,Introduction to Algorithms and Theory of Computing,Emily Brown,14:00-15:20,TTh,Lecture,0
+30006R,CSCI-270,Introduction to Algorithms and Theory of Computing Discussion,TBA,12:00-13:50,F,Discussion,30005R
+30007R,CSCI-270,Introduction to Algorithms and Theory of Computing Quiz,TBA,18:00-19:50,F,Quiz,30005R
+40001R,CSCI-310,Software Engineering,Michael Johnson,10:00-11:50,MW,Lecture,0
+50001R,CSCI-401,Capstone: Design and Construction of Large Software Systems,Victor Miller,17:00-20:20,T,Lecture,0
+70001R,MATH-225,Linear Algebra and Linear Differential Equations,Spencer Carter,09:00-09:50,MWF,Lecture,0
+70002D,MATH-225,Linear Algebra and Linear Differential Equations Discussion,TBA,08:00-08:50,TTh,Discussion,70001R
+70003D,MATH-225,Linear Algebra and Linear Differential Equations Discussion,TBA,09:00-09:50,TTh,Discussion,70001R
+70004R,MATH-225,Linear Algebra and Linear Differential Equations,Victoria Nolan,10:00-10:50,MWF,Lecture,0
+70005D,MATH-225,Linear Algebra and Linear Differential Equations Discussion,TBA,10:00-10:50,TTh,Discussion,70004R
+70006R,MATH-225,Linear Algebra and Linear Differential Equations,Guillermo Hansen,11:00-11:50,MWF,Lecture,0
+70007D,MATH-225,Linear Algebra and Linear Differential Equations Discussion,TBA,11:00-11:50,TTh,Discussion,70006R
+70008R,MATH-225,Linear Algebra and Linear Differential Equations,Agustina Simmons,12:00-12:50,MWF,Lecture,0
+70009D,MATH-225,Linear Algebra and Linear Differential Equations Discussion,TBA,12:00-12:50,TTh,Discussion,70008R
+70010R,MATH-225,Linear Algebra and Linear Differential Equations,Guillermo Hansen,13:00-13:50,MWF,Lecture,0
+70011D,MATH-225,Linear Algebra and Linear Differential Equations Discussion,TBA,13:00-13:50,TTh,Discussion,70010R
+70012D,MATH-225,Linear Algebra and Linear Differential Equations Discussion,TBA,14:00-14:50,TTh,Discussion,70010R
+80001R,BUAD-302,Communication Strategy in Business,Marissa Nolan,08:00-09:50,MW,Lecture,0
+80002R,BUAD-311,Operations Management,Katherine Lin,09:30-10:50,MW,Lecture,0
+80003R,BUAD-311,Operations Management,Katherine Lin,15:30-16:50,TTh,Lecture,0
+80004R,BUAD-311,Operations Management,Mike Sanders,09:30-10:50,TTh,Lecture,0
+80005R,BUAD-311,Operations Management,Mike Sanders,11:00-12:20,TTh,Lecture,0
+80006R,BUAD-311,Operations Management,Mike Sanders,14:00-15:20,TTh,Lecture,0
+90001R,BUAD-497,Strategic Management,Mariana Zane,08:00-09:50,MW,Lecture,0
+90002R,BUAD-497,Strategic Management,Daphne Salazar,08:00-09:50,MW,Lecture,0
+91001R,ECON-351X,Microeconomics for Business,Mohammed Safir,11:00-12:20,TTh,Lecture,0
+91002R,ECON-351X,Microeconomics for Business,Mohammed Safir,14:00-15:20,TTh,Lecture,0
+91003R,ECON-351X,Microeconomics for Business,Mohammed Safir,15:30-16:50,TTh,Lecture,0
+91004R,ECON-352X,Macroeconomics for Business,Selim Ingram,14:00-15:20,MW,Lecture,0
+91005R,ECON-352X,Macroeconomics for Business,Selim Ingram,09:30-10:50,MW,Lecture,0
+92001R,MATH-125,Calculus I,Charles Liu,09:00-09:50,MWF,Lecture,0
+92002D,MATH-125,Calculus I Discussion,TBA,08:00-08:50,TTh,Discussion,92001R
+92003D,MATH-125,Calculus I Discussion,TBA,09:00-09:50,TTh,Discussion,92001R
+92004R,MATH-125,Calculus I,Jordan Smith,10:00-10:50,MWF,Lecture,0
+92005D,MATH-125,Calculus I Discussion,TBA,12:00-12:50,TTh,Discussion,92004R
+92006D,MATH-125,Calculus I Discussion,TBA,13:00-13:50,TTh,Discussion,92004R
+92007R,MATH-125,Calculus I,Gabriel Martin,10:00-10:50,MWF,Lecture,0
+92008D,MATH-125,Calculus I Discussion,TBA,10:00-10:50,TTh,Discussion,92007R
+92009D,MATH-125,Calculus I Discussion,TBA,11:00-11:50,TTh,Discussion,92007R
+92010R,MATH-125,Calculus I,Jordan Smith,11:00-11:50,MWF,Lecture,0
+92011D,MATH-125,Calculus I Discussion,TBA,16:00-16:50,TTh,Discussion,92010R
+92012D,MATH-125,Calculus I Discussion,TBA,17:00-17:50,TTh,Discussion,92010R
+92013R,MATH-125,Calculus I,Nathaniel Anderson,12:00-12:50,MWF,Lecture,0
+92014D,MATH-125,Calculus I Discussion,TBA,14:00-14:50,TTh,Discussion,92013R
+92015D,MATH-125,Calculus I Discussion,TBA,15:00-15:50,TTh,Discussion,92013R
+92016R,MATH-125,Calculus I,Gabriel Martin,13:00-13:50,MWF,Lecture,0
+92017D,MATH-125,Calculus I Discussion,TBA,10:00-10:50,TTh,Discussion,92016R
+92018D,MATH-125,Calculus I Discussion,TBA,11:00-11:50,TTh,Discussion,92016R
+92019R,MATH-125,Calculus I,Nathaniel Anderson,13:00-13:50,MWF,Lecture,0
+92020D,MATH-125,Calculus I Discussion,TBA,14:00-14:50,TTh,Discussion,92019R
+92021D,MATH-125,Calculus I Discussion,TBA,15:00-15:50,TTh,Discussion,92019R
+91001R,CSCI-103,Introduction to Programming,Michael Richards,08:00-09:20,TTh,Lecture,0
+91002R,CSCI-103,Introduction to Programming,Michael Richards,14:00-15:20,MW,Lecture,0
+91003R,CSCI-103,Introduction to Programming Lab,N/A,14:00-15:50,F,Lab,91001R/91002R
+91004R,CSCI-103,Introduction to Programming Lab,N/A,12:00-13:50,F,Lab,91001R/91002R
+91005R,CSCI-103,Introduction to Programming Lab,N/A,12:00-13:50,F,Lab,91001R/91002R
+91006R,CSCI-103,Introduction to Programming Lab,N/A,14:00-15:50,F,Lab,91001R/91002R
+91007D,CSCI-103,Introduction to Programming Lab,N/A,14:00-15:50,F,Lab,91001R/91002R
+91008R,CSCI-103,Introduction to Programming Lab,N/A,10:00-11:50,F,Lab,91001R/91002R
+91009R,CSCI-103,Introduction to Programming Lab,N/A,17:00-18:50,F,Lab,91001R/91002R
+91010R,CSCI-103,Introduction to Programming Lab,N/A,10:00-11:50,F,Lab,91001R/91002R
+91011R,CSCI-103,Introduction to Programming Lab,N/A,08:00-09:50,F,Lab,91001R/91002R
+91012R,CSCI-103,Introduction to Programming Lab,N/A,16:00-17:50,F,Lab,91001R/91002R
+91013D,CSCI-103,Introduction to Programming Lab,N/A,17:00-18:50,F,Lab,91001R/91002R
+91014D,CSCI-103,Introduction to Programming Lab,N/A,08:00-09:50,F,Lab,91001R/91002R
+91015R,CSCI-103,Introduction to Programming Lab,N/A,10:00-11:50,F,Lab,91001R/91002R
+91016R,CSCI-103,Introduction to Programming Lab,N/A,12:00-13:50,F,Lab,91001R/91002R
+91017R,CSCI-103,Introduction to Programming Quiz,N/A,07:00-08:50,Th,Quiz,91001R/91002R
+92001R,CSCI-170,Discrete Methods in Computer Science,Samuel Daniels,12:30-13:50,MW,Lecture,0
+92002R,CSCI-170,Discrete Methods in Computer Science,Samuel Daniels,15:30-16:50,MW,Lecture,0
+92003D,CSCI-170,Discrete Methods in Computer Science Discussion,N/A,14:00-15:50,F,Discussion,92001R/92002R
+92004D,CSCI-170,Discrete Methods in Computer Science Discussion,N/A,08:00-09:50,F,Discussion,92001R/92002R
+92005D,CSCI-170,Discrete Methods in Computer Science Discussion,N/A,10:00-11:50,F,Discussion,92001R/92002R
+92006D,CSCI-170,Discrete Methods in Computer Science Discussion,N/A,12:00-13:50,F,Discussion,92001R/92002R
+92007R,CSCI-170,Discrete Methods in Computer Science Quiz,N/A,07:00-08:50,W,Quiz,92001R/92002R
+93001R,CSCI-310,Software Engineering,William Herman,10:00-11:50,MW,Lecture,0
+94001R,CSCI-401,Capstone: Design and Construction of Large Software Systems,Victor Adams,08:00-09:50,MW,Lecture,0
+94002R,CSCI-401,Capstone: Design and Construction of Large Software Systems,Victor Adams,17:00-20:20,T,Lecture,0
+95001R,ACCT-410X,Foundations of Accounting,Xavier Lin,08:00-09:50,MW,Lecture,0
+95002R,ACCT-410X,Foundations of Accounting,Eliza Woods,12:00-13:50,MW,Lecture,0
+95003R,ACCT-410X,Foundations of Accounting,Matt Perry,08:00-09:50,TTh,Lecture,0
+95004R,ACCT-410X,Foundations of Accounting,Matt Perry,10:00-11:50,TTh,Lecture,0
+95005R,ACCT-410X,Foundations of Accounting,Robert Blake,16:00-17:50,TTh,Lecture,0
+96001R,BUAD-302,Communication Strategy in Business,Maria Collins,08:00-09:50,MW,Lecture,0
+96002R,BUAD-302,Communication Strategy in Business,Priya Kapoor,08:00-09:50,TTh,Lecture,0
+96003R,BUAD-302,Communication Strategy in Business,Yvonne Gu,14:00-15:50,MW,Lecture,0
+96004R,BUAD-302,Communication Strategy in Business,Maria Collins,10:00-11:50,MW,Lecture,0
+96005R,BUAD-302,Communication Strategy in Business,Maria Collins,12:00-13:50,MW,Lecture,0
+96006R,BUAD-302,Communication Strategy in Business,Yvonne Gu,12:00-13:50,MW,Lecture,0
+96007R,BUAD-302,Communication Strategy in Business,Yvonne Gu,16:00-17:50,TTh,Lecture,0
+96008R,BUAD-302,Communication Strategy in Business,Susan Grey,14:00-15:50,MW,Lecture,0
+96009R,BUAD-302,Communication Strategy in Business,Kevin Carter,16:00-17:50,MW,Lecture,0
+96010R,BUAD-302,Communication Strategy in Business,Susan Grey,16:00-17:50,MW,Lecture,0
+96011R,BUAD-302,Communication Strategy in Business,Susan Grey,18:00-19:50,MW,Lecture,0
+96012R,BUAD-302,Communication Strategy in Business,Susan Grey,18:00-19:50,MW,Lecture,0
+96013R,BUAD-302,Communication Strategy in Business,Priya Kapoor,12:00-13:50,TTh,Lecture,0
+96014R,BUAD-302,Communication Strategy in Business,Trevor Wilson,08:00-09:50,TTh,Lecture,0
+96015R,BUAD-302,Communication Strategy in Business,Madeline Green,10:00-11:50,TTh,Lecture,0
+96016R,BUAD-302,Communication Strategy in Business,Priya Kapoor,10:00-11:50,TTh,Lecture,0
+96017R,BUAD-302,Communication Strategy in Business,Madeline Green,12:00-13:50,TTh,Lecture,0
+96018R,BUAD-302,Communication Strategy in Business,Jason Freedman,14:00-15:50,TTh,Lecture,0
+96019R,BUAD-302,Communication Strategy in Business,Jason Freedman,16:00-17:50,TTh,Lecture,0
+96020R,BUAD-302,Communication Strategy in Business,Stephen Lewis,16:00-17:50,TTh,Lecture,0
+96021R,BUAD-302,Communication Strategy in Business,Cesar Alvarez,18:00-19:50,TTh,Lecture,0
+96022R,BUAD-302,Communication Strategy in Business,Stephen Lewis,18:00-19:50,TTh,Lecture,0
+97001R,BUAD-304,Organizational Behavior and Leadership,Jordan Michaels,14:00-15:50,TTh,Lecture,0
+97002R,BUAD-304,Organizational Behavior and Leadership,Samuel Rogers,10:00-11:50,TTh,Lecture,0
+97003R,BUAD-304,Organizational Behavior and Leadership,Liam Carter,12:00-13:50,MW,Lecture,0
+97004R,BUAD-304,Organizational Behavior and Leadership,Noah Bennett,18:00-19:50,TTh,Lecture,0
+97005R,BUAD-304,Organizational Behavior and Leadership,Jordan Michaels,12:00-13:50,TTh,Lecture,0
+97006R,BUAD-304,Organizational Behavior and Leadership,Liam Carter,10:00-11:50,MW,Lecture,0
+97007R,BUAD-304,Organizational Behavior and Leadership,Amelia Davis,08:00-09:50,TTh,Lecture,0
+97008R,BUAD-304,Organizational Behavior and Leadership,Noah Bennett,16:00-17:50,TTh,Lecture,0
+97009R,BUAD-304,Organizational Behavior and Leadership,Samuel Rogers,08:00-09:50,TTh,Lecture,0
+97010R,BUAD-304,Organizational Behavior and Leadership,Emily Harper,10:00-11:50,MW,Lecture,0
+97011R,BUAD-304,Organizational Behavior and Leadership,Emily Harper,14:00-15:50,MW,Lecture,0
+97012R,BUAD-304,Organizational Behavior and Leadership,Owen Bailey,08:00-09:50,MW,Lecture,0
+97013R,BUAD-304,Organizational Behavior and Leadership,Owen Bailey,18:00-19:50,MW,Lecture,0
+97014R,BUAD-304,Organizational Behavior and Leadership,Owen Bailey,16:00-17:50,MW,Lecture,0
+97015R,BUAD-304,Organizational Behavior and Leadership,Sophia Evans,14:00-15:50,TTh,Lecture,0
+97016R,BUAD-304,Organizational Behavior and Leadership,Sophia Evans,12:00-13:50,TTh,Lecture,0
+98001R,BUAD-306,Business Finance,Emily Johnson,08:00-09:50,MW,Lecture,0
+98002R,BUAD-306,Business Finance,Emily Johnson,16:00-17:50,MW,Lecture,0
+98003R,BUAD-306,Business Finance,Emily Johnson,10:00-11:50,MW,Lecture,0
+98004R,BUAD-306,Business Finance,Daniel Chen,10:00-11:50,TTh,Lecture,0
+98005R,BUAD-306,Business Finance,Daniel Chen,08:00-09:50,TTh,Lecture,0
+98006R,BUAD-306,Business Finance,Liam Carter,16:00-19:50,T,Lecture,0
+98007R,BUAD-306,Business Finance,Daniel Chen,16:00-17:50,TTh,Lecture,0
+98008R,BUAD-306,Business Finance,Daniel Chen,14:00-15:50,TTh,Lecture,0
+98009R,BUAD-306,Business Finance,Emily Johnson,14:00-15:50,MW,Lecture,0
+99005R,BUAD-307,Marketing Fundamentals,Owen Bailey,12:00-13:50,M,Lecture,0
+99006R,BUAD-307,Marketing Fundamentals,Owen Bailey,12:00-13:50,T,Discussion,99005R
+99007R,BUAD-307,Marketing Fundamentals,Owen Bailey,16:00-17:50,M,Discussion,99005R
+99008R,BUAD-307,Marketing Fundamentals,Owen Bailey,18:00-19:50,M,Discussion,99005R
+99009R,BUAD-307,Marketing Fundamentals,Owen Bailey,08:00-09:50,T,Discussion,99005R
+99010R,BUAD-307,Marketing Fundamentals,Owen Bailey,10:00-11:50,T,Discussion,99005R
+99011R,BUAD-307,Marketing Fundamentals,Mia Taylor,12:00-13:50,W,Lecture,0
+99012R,BUAD-307,Marketing Fundamentals,Mia Taylor,18:00-19:50,W,Discussion,99011R
+99013R,BUAD-307,Marketing Fundamentals,Mia Taylor,16:00-17:50,Th,Discussion,99011R
+99014R,BUAD-307,Marketing Fundamentals,Mia Taylor,18:00-19:50,Th,Discussion,99011R
+99015R,BUAD-307,Marketing Fundamentals,Mia Taylor,16:00-17:50,W,Discussion,99011R
+99016R,BUAD-307,Marketing Fundamentals,Ella Roberts,14:00-15:50,T,Lecture,0
+99017R,BUAD-307,Marketing Fundamentals,Ella Roberts,16:00-17:50,T,Discussion,99016R
+99018R,BUAD-307,Marketing Fundamentals,Ella Roberts,08:00-09:50,W,Discussion,99016R
+99019R,BUAD-307,Marketing Fundamentals,Ella Roberts,16:00-17:50,W,Discussion,99016R
+99020R,BUAD-307,Marketing Fundamentals,Ella Roberts,18:00-19:50,W,Discussion,99016R
+99021R,BUAD-307,Marketing Fundamentals,Ella Roberts,18:00-19:50,T,Discussion,99016R

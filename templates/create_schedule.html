@@ -1,0 +1,18 @@
+{% extends "base.html" %} {% block content %}
+<h1>Create Schedule</h1>
+{% if error %}
+<p style="color: red">{{ error }}</p>
+{% endif %}
+<form method="POST">
+  <label for="courseID">Select Course:</label>
+  <select name="courseID" id="courseID">
+    {% for course in courses %}
+    <option value="{{ course.id }}">
+      {{ course.courseCode }} - {{ course.courseName }} ({{ course.time }} {{
+      course.days }})
+    </option>
+    {% endfor %}
+  </select>
+  <button type="submit">Add to Schedule</button>
+</form>
+{% endblock %}

@@ -1,0 +1,22 @@
+<h2>Select Sections for {{ parent_course['courseName'] }}</h2>
+
+{% if error %}
+<p style="color: red">{{ error }}</p>
+{% endif %}
+
+<form method="POST" action="{{ url_for('add_child_sections') }}">
+  <ul>
+    {% for section in child_sections %}
+    <li>
+      <input
+        type="checkbox"
+        name="selectedSections"
+        value="{{ section['id'] }}"
+      />
+      {{ section['courseName'] }} - {{ section['type'] }} ({{ section['time'] }}
+      {{ section['days'] }})
+    </li>
+    {% endfor %}
+  </ul>
+  <button type="submit">Add Selected Sections</button>
+</form>

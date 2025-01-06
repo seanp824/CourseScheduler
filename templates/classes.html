@@ -1,0 +1,41 @@
+{% extends "base.html" %} {% block content %}
+<h1>Courses</h1>
+
+<!-- Search Form -->
+<form method="get" action="/courses" class="mb-4">
+  <div class="input-group">
+    <input
+      type="text"
+      name="query"
+      class="form-control"
+      placeholder="Search by course code or name"
+      value="{{ query|default('') }}"
+    />
+    <button type="submit" class="btn btn-primary">Search</button>
+  </div>
+</form>
+
+<!-- Courses Table -->
+<table class="table table-bordered">
+  <thead>
+    <tr>
+      <th>Course Code</th>
+      <th>Course Name</th>
+      <th>Instructor</th>
+      <th>Time</th>
+      <th>Days</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% for course in courses %}
+    <tr>
+      <td>{{ course.courseCode }}</td>
+      <td>{{ course.courseName }}</td>
+      <td>{{ course.instructor }}</td>
+      <td>{{ course.time }}</td>
+      <td>{{ course.days }}</td>
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>
+{% endblock %}
