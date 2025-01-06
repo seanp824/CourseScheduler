@@ -9,7 +9,6 @@ NOTE: All professor names and section ID's have been anonymized. The grades used
 - **View and Search Courses**: Easily browse and search for available courses.
 - **Add Parent Lectures with Child Sections**: Automatically validates the addition of lectures and required sections.
 - **Time Conflict Detection**: Ensures no overlapping course times.
-- **Export Schedules**: Export the finalized schedule to a text file for convenience.
 - **Grade Distribution**: View grade statistics for selected courses.
 - **Interactive Weekly Calendar**: Visualize your schedule in a weekly format.
 
