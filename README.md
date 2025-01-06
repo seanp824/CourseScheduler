@@ -16,6 +16,6 @@ NOTE: All professor names and section ID's have been anonymized. The grades used
 
 - **Backend**: Flask (Python)
 - **Database**: SQLite
-- **Frontend**: HTML, CSS, Bootstrap
+- **Frontend**: HTML, CSS
 
 
